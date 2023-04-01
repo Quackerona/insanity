@@ -1,3 +1,3 @@
-var test = new FlxText(0, 0, 0, "hi guys", 12);
+var test = new FlxText(0, 0, 0, "boo", 12);
 test.screenCenter();
 add(test);
